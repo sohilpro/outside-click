@@ -4,8 +4,8 @@ Vue directive to react on clicks outside an element without stopping the event p
 ## Use
 
 ```js
-import Vue from 'vue'
-import ClickOutside from  "./outside-click.js";
+import Vue from "vue"
+import ClickOutside from "./outside-click.js";
 
 const  app  =  createApp(App);
 
