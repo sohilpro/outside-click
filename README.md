@@ -30,4 +30,4 @@ Any improvements or suggestions to this are welcomed.
 
 ## License
 
-[MIT License](https://github.com/ndelvalle/v-click-outside/blob/master/LICENSE)
+[MIT License](https://github.com/sohilpro/outside-clickq/main/LICENSE)
